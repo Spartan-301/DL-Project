@@ -9,6 +9,7 @@ Game Plan
 #5 deploy model to an app
 
 #1 Data Collection
+
 	- dogs vs cats(classification)
 	- MNIST(classification)
 	- stock data
@@ -18,6 +19,7 @@ Game Plan
 		- for world cup
 
 #3 Building Learning Models
+
 	- Multi-layer perceptron for MNIST and dogs vs cats
 
 	- Convolutional network for MNIST and dogs vs cats
